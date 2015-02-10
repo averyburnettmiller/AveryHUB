@@ -3,11 +3,8 @@
 <head>
 <!-- Below is the code for the Google font 'Montserrat'. This is the same font that I use in my logo.-->
 <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-<style>
-h1 { font-family: ‘Montserrat’, Arial, serif; font-weight: 400; }
-</style>
 </head>
 <body>
-<h1>@very Miller</h1>
+<h1 style="font-family: 'Montserrat', sans-serif;" >@very Miller</h1>
 </body>
 </html>
