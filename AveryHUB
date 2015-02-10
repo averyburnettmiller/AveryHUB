@@ -1,8 +1,15 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<img scr="https://cloud.githubusercontent.com/assets/4822424/6137969/42e97d64-b14b-11e4-9c74-b3ad760e92fa.png" 
-alt="AveryHUB Logo" width="2000" height="1276">
+<!-- Below is the code for the Google font 'Montserrat'. This is the same font that I use in my logo.-->
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+h1 {
+  font: 400 45px/0.5 'Courgette', Helvetica, sans-serif;
+}
+ 
+p {
+  font: 400 14px/1.5 'Average', Times, serif;
+}
 </head>
 <body>
 Hello!
