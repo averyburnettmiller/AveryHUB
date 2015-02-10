@@ -2,7 +2,7 @@
 <html>
 <head>
 <!-- Below is the code for the Google font 'Montserrat'. This is the same font that I use in my logo.-->
-<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="Styles.css">
 </head>
 <body>
 <h1>Hello</h1>
