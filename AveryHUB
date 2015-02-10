@@ -15,7 +15,7 @@ This is the same font that I use in my logo.-->
 <b style="font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 500;">Hey! Welcome to AveryHUB!
 This is the place where I code HTML! This entire page I've coded myself!</b><br />
 <b style="font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 1000;">
-<a href="http://www.averymiller.org>Click here to go to AveryMiller.org.</a></b>
+<a href="http://www.averymiller.org/">Click here to go to AveryMiller.org</a></b>
 </center>
 </body>
 </html>
