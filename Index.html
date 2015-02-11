@@ -4,22 +4,33 @@
 <!-- Below is the code in order to import the Google font 'Montserrat'.
 This is the same font that I use in my logo.-->
 <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-<!-- Below is the text '@very's GitHub'. The font is designated in the h1 tag, not in the CSS or in the header.-->
+<!-- Below is the style that removes the underlines from the links!-->
+<!-- The code below  makes all the h3, h2, h1, b, and small text 'Montserrat'. This means that you only have to 
+specify -->
+<Style>
+a {text-decoration:none}
+h3 {font-family: 'Montserrat', sans-serif;}
+h2 {font-family: 'Montserrat', sans-serif;}
+h1 {font-family: 'Montserrat', sans-serif;}
+b {font-family: 'Montserrat', sans-serif;}
+small {font-family: 'Montserrat', sans-serif;}
+</Style>
 <center>
-<h2 style="font-family: 'Montserrat', sans-serif; font-size: 4.3rem; font-weight: 500;" id="Logo">@very's GitHub</h2>
+<h2 style="font-size: 4.3rem; font-weight: 500;" 
+id="Logo">@very's GitHub</h2>
 <a href="http://github.averymiller.org" 
-style="font-family: 'Montserrat', sans-serif; font-size: 3rem; font-weight: 500;" 
-id="Logo">
+style="font-family: 'Montserrat', sans-serif; font-size: 2rem; font-weight: 500;">
 github.averymiller.org</a>
 </center>
-<!-- I used Rems instead of pixels... Beats me what Rems represent!-->
 </head>
-<body>
+<body link="black">
 <center>
-<b style="font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 500;">Hey! Welcome to AveryHUB!
-This is the place where I code HTML! This entire page I've coded myself!</b><br />
-<b style="font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 1000;">
-<a href="http://www.averymiller.org/">Click here to go to AveryMiller.org</a></b>
+<b style="font-size: 1rem; font-weight: 500;">Hey! Welcome to my GitHub page!
+This is the place where I code HTML! I've coded this entire page myself!</b><br />
+<!-- This is the footer!-->
+<small style="font-size: 1rem; font-weight: 1000;">
+<a href="http://www.averymiller.org/">Click here to go to AveryMiller.org!</a></small>
+<!-- End of the footer!-->
 </center>
 </body>
 </html>
