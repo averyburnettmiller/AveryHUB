@@ -1,2 +1,2 @@
-# AveryHUB
-Welcome to AveryHUB! This is the place where I'm going to put all the HTML 5 I program.
+# [@very's GitHub](http://github.averymiller.org)
+This is a  site that I'm coding from the ground up using HTML 5. 
